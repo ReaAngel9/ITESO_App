@@ -43,7 +43,7 @@ class _MyHomePage extends State<MyHomePage>{
 
           const Padding(
             padding: EdgeInsets.only(top: 30, left: 20, right: 20),
-            child: Text('El ITESO, Universidad Jesuita de Guadalajara (Instituto Tecnológico y de Estudios Superiores de Occidente) es una universidad privada ubicada en la Zona Metropolitana de Guadalajara, Jalisco, México, fundada en el año 1957.La institución forma parte del Sistema Universitario Jesuita que integra a ocho universidades en México.', textAlign: TextAlign.justify, style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),),
+            child: Text('El ITESO, Universidad Jesuita de Guadalajara (Instituto Tecnológico y de Estudios Superiores de Occidente) es una universidad privada ubicada en la Zona Metropolitana de Guadalajara, Jalisco, México, fundada en el año 1957.', textAlign: TextAlign.justify, style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),),
           )
 
           ],
